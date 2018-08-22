@@ -464,3 +464,5 @@ lghtds.net
 harpgateway.net
 offers.wildbearads.bid
 wildbearads.bid
+tmbvid.engine.adglare.net
+adglare.net
