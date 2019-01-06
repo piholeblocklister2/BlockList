@@ -507,3 +507,5 @@ www.traffic-media.co.uk
 traffic-media.co.uk
 cnsparkler.com
 m.cnsparkler.com
+a.adtng.com
+adtng.com
